@@ -1,11 +1,11 @@
 This is a fully functional Kaleidoscope that works on both desktop and mobile browsers. 
 
-The option on screen vanish after 30 second of inactivity.
+The options on the screen vanish after about 30 second of inactivity.
 
-Just run the html file in your desired browser. 
+Just run the html file in your desired browser to experience. 
 
-Scroll or swipe to change the Kaleidoscope.
+Scroll or swipe to shift or turn the Kaleidoscope.
 
-Click 'F11' to fullscreen.
+Click 'F11' to go fullscreen in your browser.
 
-Use this demonstration to learn and educate yourself! Enjoy!
+Use this to educate yourself! Enjoy!
